@@ -97,7 +97,7 @@ def predict(image, model):
 
 # Streamlit UI
 st.set_page_config(
-    page_title="Plant Disease Classifier",
+    page_title="Tomato-Leaf Disease Detection",
     layout="wide",
     page_icon="🌿"
 )
