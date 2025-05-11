@@ -102,7 +102,7 @@ st.set_page_config(
     page_icon="🌿"
 )
 
-st.title("🌿 Plant Disease Classifier")
+st.title("🌿 Tomato-Leaf Disease Detection")
 st.markdown("""
     <style>
     .stProgress > div > div > div > div {
